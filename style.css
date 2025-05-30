@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: azure;
+    
     font-size: 20px;
     color: black;
     text-align: center;
@@ -21,7 +21,7 @@ input{
    margin-top: 100px;
 }
 #color-output{
-margin-top: 90px;
+margin-top: 100px;
 position: absolute;
 left: 47%;
 font-size: 30px;
